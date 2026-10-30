@@ -1,2 +1,2 @@
-vless://7c730089-1791-4828-89b2-86e7e1663063@tr.privatevip.ir:448?encryption=none&host=tr.privatevip.ir&path=/&security=none&type=ws#1.🇹🇷 GeminiRoute
-vless://42a64b9a-ab79-4094-8656-30366a7c2ea3@tr.peregrine-sub.net:8443?encryption=none&type=xhttp&path=/&security=reality&fp=chrome&sni=tr.peregrine-sub.net&pbk=PUj1la__ltNjv_ASE5n4HJY7GiRs--N-0aYhkcAApCI&sid=7b6803a79bba5c52#2.🇹🇷 GeminiRoute
+vless://42a64b9a-ab79-4094-8656-30366a7c2ea3@tr.peregrine-sub.net:8443?encryption=none&type=xhttp&path=/&security=reality&fp=chrome&sni=tr.peregrine-sub.net&pbk=PUj1la__ltNjv_ASE5n4HJY7GiRs--N-0aYhkcAApCI&sid=7b6803a79bba5c52#1.🇹🇷 GeminiRoute
+vless://2446e2e2-1ce3-4502-9050-1dd32bacc68c@tr2.h1cloud.net:25021?security=reality&encryption=none&pbk=od79bUkYtqQtsGrrTdhmkDflx5c9al4vqxwWApvc-Dg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.samsung.com&sid=17fa3af0924c88b3#2.🇹🇷 GeminiRoute
