@@ -1,1 +1,1 @@
-vless://d1a6a033-fdbd-46a6-a177-3370ba042b9f@46.28.67.55:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=i2dJ1_XGDpp50qpEclh6SWSWkxt4B0t2hi2qOVQbeSU&sid=d06d78e974491b6e&type=tcp&headerType=none#1.🇷🇴 GeminiRoute
+vless://33972eb3-3f57-4558-80ff-b6926480ff69@88.80.135.65:4127?path=/Telegram=@AmyraxVPN&security=&encryption=none&host=88.80.135.65&type=httpupgrade#1.🇷🇴 GeminiRoute
