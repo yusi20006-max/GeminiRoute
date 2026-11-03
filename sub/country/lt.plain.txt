@@ -1,1 +1,0 @@
-vless://95d0e214-eab0-4701-93ed-fea4f1b56062@admin.betust.net:443?security=reality&encryption=none&pbk=zZjrHRzULoXKVccVdPqtrtXLEUPJXwqdE1138vu5x3w&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=admin.betust.net&sid=3e137406#1.🇱🇹 GeminiRoute
