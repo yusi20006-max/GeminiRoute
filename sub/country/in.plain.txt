@@ -1,1 +1,1 @@
-vmess://eyJ2IjoiMiIsInBzIjoiMS7wn4eu8J+HsyBHZW1pbmlSb3V0ZSIsImFkZCI6IjE1Mi42Ny44LjIwNSIsInBvcnQiOjgwLCJpZCI6IjlkYjRjNzA4LWFlZjgtNDM1OS04MjFiLTM4ZTQ3OTkwYmUwZCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsInRscyI6IiIsImFscG4iOiIiLCJwYXRoIjoiLyIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
+vless://213224a4-6cd1-b7f4-8bbc-4f50e5ed847b@xray-ikmqcro3-rapid-river-6.cloady.io:443?path=%2Fc54a815e676d9acc&security=tls&encryption=none&insecure=0&host=xray-ikmqcro3-rapid-river-6.cloady.io&type=ws&allowInsecure=0&sni=xray-ikmqcro3-rapid-river-6.cloady.io#1.🇮🇳 GeminiRoute
