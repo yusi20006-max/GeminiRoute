@@ -1,2 +1,2 @@
-vless://666821a2-5c3d-0001-a56f-5a3a562d7324@136.148.83.69:443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=szqbx-ru-77dc.my-fade.cloud#1.🇵🇱 GeminiRoute
+vless://7dff1be7-b930-0001-a8ad-dc7850168215@136.148.83.69:443/?type=tcp&encryption=none&flow=&security=tls&sni=szqbx-ru-77dc.my-fade.cloud&fp=chrome#1.🇵🇱 GeminiRoute
 vless://8f154051-5b60-4e04-8880-a416c133a61b@31.77.56.68:2052?encryption=none&fp=&pbk=4UA4nr9RIIEOC6ZDK5AHkj5v0Q-e3_jNeVI5cIgPSg4&security=reality&serviceName=plogrpc&sid=24&sni=cdn.ozon.ru&type=grpc#2.🇵🇱 GeminiRoute
