@@ -1,1 +1,2 @@
-vless://7dff1be7-b930-0001-a8ad-dc7850168215@136.148.83.69:443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=szqbx-ru-77dc.my-fade.cloud#1.🇵🇱 GeminiRoute
+vless://666821a2-5c3d-0001-a56f-5a3a562d7324@136.148.83.69:443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=szqbx-ru-77dc.my-fade.cloud#1.🇵🇱 GeminiRoute
+vless://d7d724b5-17ce-4f3c-877d-dfbf0f07afa1@150.251.113.34:443?security=reality&encryption=none&pbk=8yMLSTbkpJFfbgTjNzotzz7U8OT6AERrclgKdKrXXW8&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=150a627d15154cf2#2.🇵🇱 GeminiRoute
